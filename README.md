@@ -18,3 +18,11 @@ Cangjie-Min
 
 
 
+
+
+
+
+参考
+
+- The Unicode Standard, Version 14.0.0 2022 https://www.unicode.org/charts/
+- 
